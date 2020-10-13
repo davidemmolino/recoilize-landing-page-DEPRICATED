@@ -1,10 +1,9 @@
 import React from 'react';
 import TimeTravelGif from '../assets/demo1.gif';
-// import Scrollout from 'scroll-out';
 
 export default function TimeTravelSection() {
     return (
-        <div data-scroll id="time-travel-div">
+        <div id="time-travel-div">
             {/* fix the formatting of this */}
             <h2 className="section-title-left">#TimeTravelDebugging</h2>
             <div id="timetravel-container">
