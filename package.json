@@ -1,6 +1,6 @@
 {
   "name": "recoil-landing",
-  "homepage": "https://davidemmolino.github.io/recoilize-landing-page/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
