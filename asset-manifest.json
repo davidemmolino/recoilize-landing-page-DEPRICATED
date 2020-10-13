@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/recoilize-landing-page/static/css/main.df368ee1.chunk.css",
+    "main.js": "/recoilize-landing-page/static/js/main.65c044b2.chunk.js",
+    "main.js.map": "/recoilize-landing-page/static/js/main.65c044b2.chunk.js.map",
+    "runtime-main.js": "/recoilize-landing-page/static/js/runtime-main.0a75c892.js",
+    "runtime-main.js.map": "/recoilize-landing-page/static/js/runtime-main.0a75c892.js.map",
+    "static/js/2.61c91a67.chunk.js": "/recoilize-landing-page/static/js/2.61c91a67.chunk.js",
+    "static/js/2.61c91a67.chunk.js.map": "/recoilize-landing-page/static/js/2.61c91a67.chunk.js.map",
+    "index.html": "/recoilize-landing-page/index.html",
+    "precache-manifest.6384bb057f4e3f7ebe6af84b80865eb5.js": "/recoilize-landing-page/precache-manifest.6384bb057f4e3f7ebe6af84b80865eb5.js",
+    "service-worker.js": "/recoilize-landing-page/service-worker.js",
+    "static/css/main.df368ee1.chunk.css.map": "/recoilize-landing-page/static/css/main.df368ee1.chunk.css.map",
+    "static/js/2.61c91a67.chunk.js.LICENSE.txt": "/recoilize-landing-page/static/js/2.61c91a67.chunk.js.LICENSE.txt",
+    "static/media/demo1.b9094b36.gif": "/recoilize-landing-page/static/media/demo1.b9094b36.gif",
+    "static/media/github-logo.svg": "/recoilize-landing-page/static/media/github-logo.1bb02710.svg",
+    "static/media/interpolate.67945ad3.gif": "/recoilize-landing-page/static/media/interpolate.67945ad3.gif",
+    "static/media/linkedin-logo.svg": "/recoilize-landing-page/static/media/linkedin-logo.8cc2d3a8.svg",
+    "static/media/recoilize-gray-01.75757e59.png": "/recoilize-landing-page/static/media/recoilize-gray-01.75757e59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a75c892.js",
+    "static/js/2.61c91a67.chunk.js",
+    "static/css/main.df368ee1.chunk.css",
+    "static/js/main.65c044b2.chunk.js"
+  ]
+}
