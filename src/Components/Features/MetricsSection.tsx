@@ -1,5 +1,5 @@
 import React from 'react';
-import ToggleGif from '../assets/interpolate.gif';
+import ToggleGif from '../../assets/interpolate.gif';
 
 export default function TimeTravelSection() {
     return (

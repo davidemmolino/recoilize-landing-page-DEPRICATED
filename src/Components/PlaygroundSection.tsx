@@ -1,5 +1,5 @@
 import React from 'react';
-import Playground from './Playground';
+import Playground from './Playground/Playground';
 
 export default function PlaygroundSection() {
     return (

@@ -1,7 +1,7 @@
 import React from "react";
 import {useRecoilState} from 'recoil';
 import { getTvMetadataResource } from "./helpers/Api";
-import * as atoms from './Store/Atoms';
+import * as atoms from '../Store/Atoms';
 
 export const TvShowList = () => {
   const [id, setId] = useRecoilState(atoms.id);

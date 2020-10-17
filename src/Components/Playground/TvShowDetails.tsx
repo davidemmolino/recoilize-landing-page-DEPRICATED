@@ -2,7 +2,7 @@ import React, { Suspense } from "react";
 import {useRecoilValue} from 'recoil';
 import { getTvDataResource, getCommentsResource } from "./helpers/Api";
 import { Spinner } from "./Spinner";
-import * as atoms from './Store/Atoms';
+import * as atoms from '../Store/Atoms';
 
 
 const Comments = () => {
